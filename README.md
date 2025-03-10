@@ -2,4 +2,4 @@
 
 this project was created from local system
 
-created by vamsi krishna
+created by Vamsi Krishna
